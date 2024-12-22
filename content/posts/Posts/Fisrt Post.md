@@ -14,4 +14,4 @@ tags:
 # Hi and Welcome to My Second Brain
 This brain is brought to you in part by Obsidian, Hugo, GitHub, Python
 
-!![Image Description](/images/Screenshot%202024-10-12%20234853.png)
+![[Screenshot 2024-10-12 234853.png]]
