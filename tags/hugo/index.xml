@@ -9,16 +9,16 @@
     <lastBuildDate>Sun, 22 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hi and Welcome to My Second Brain</title>
-      <link>/posts/fisrt-post/</link>
+      <link>/posts/posts/fisrt-post/</link>
       <pubDate>Sun, 22 Dec 2024 00:00:00 +0000</pubDate>
       
-      <guid>/posts/fisrt-post/</guid>
+      <guid>/posts/posts/fisrt-post/</guid>
       <description>&lt;h1 id=&#34;hi-and-welcome-to-my-second-brain&#34;&gt;Hi and Welcome to My Second Brain&lt;/h1&gt;
 &lt;p&gt;This brain is brought to you in part by Obsidian, Hugo, GitHub, Python&lt;/p&gt;
-&lt;p&gt;!&lt;img src=&#34;/images/Screenshot%202024-10-12%20234853.png&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;</description>
+&lt;p&gt;![[Screenshot 2024-10-12 234853.png]]&lt;/p&gt;</description>
       <content>&lt;h1 id=&#34;hi-and-welcome-to-my-second-brain&#34;&gt;Hi and Welcome to My Second Brain&lt;/h1&gt;
 &lt;p&gt;This brain is brought to you in part by Obsidian, Hugo, GitHub, Python&lt;/p&gt;
-&lt;p&gt;!&lt;img src=&#34;/images/Screenshot%202024-10-12%20234853.png&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;
+&lt;p&gt;![[Screenshot 2024-10-12 234853.png]]&lt;/p&gt;
 </content>
     </item>
     
